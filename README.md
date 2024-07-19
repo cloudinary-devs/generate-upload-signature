@@ -11,9 +11,11 @@ npm -i
 
 Create a .env file with the following contents (replacing the 'YOUR' placeholders):
 
+```
 CLOUD_NAME='YOUR_CLOUD_NAME'
 API_SECRET='YOUR_API_SECRET'
 API_KEY='YOUR_API_KEY'
+```
 
 ## Run
 
