@@ -4,7 +4,7 @@ Node.js example of generating an upload signature
 ## Install packages
 
 ```
-npm -i
+npm i
 ```
 
 ## Set .env file
